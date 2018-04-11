@@ -83,6 +83,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [WTF# is Fable?](https://wtfsharp.net/wtf-is-fable) - An overview of the Fable ecosystem on the [WTF#](https://wtfsharp.net) podcast.
 * [From F# to JavaScript and beyond with Fable](https://hanselminutes.com/616/from-f-to-javascript-and-beyond-with-fable-and-alfonso-garcia-caro) - with Alfonso Garcia-Caro on Scott Hanselman's "[Hanselminutes][Hanselminutes]" podcast
 * [F# and the SAFE stack](https://hanselminutes.com/624/f-and-the-functional-safe-stack-with-krzysztof-cielak) - with Krzysztof Cieślak on Scott Hanselman's "[Hanselminutes][Hanselminutes]" podcast
+* [SAFE apps with F# web stack](https://skillsmatter.com/skillscasts/11308-safe-apps-with-f-web-stack) - Tomasz Heimowski demonstrating SAFE stack during live coding session on F# eXchange 2018
 
 **[:arrow_up: back to top](#table-of-contents)**
 
